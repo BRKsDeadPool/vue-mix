@@ -1,0 +1,12 @@
+{
+  "name": "vue-mix",
+  "version": "1.0.0",
+  "description": "Vue.js starter template with new laravel-mix lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Reginaldo Junior <reginaldo.junior696@gmail.com>",
+  "license": "MIT"
+}
