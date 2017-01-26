@@ -37,6 +37,5 @@ Vue-Mix is a vue-cli template for fast scaffolding with the new laravel-mix api
     ├── .gitignore
     ├── index.html
     ├── webpack.mix.js
-    ├── webpack.config.js
     ├── package.json
 ```
