@@ -13,6 +13,7 @@ Vue-Mix is a vue-cli template for fast scaffolding with the new laravel-mix api
 
 # Folder structure
 
+```
 ├── Root App
     ├── src/
         ├── js/
@@ -40,3 +41,4 @@ Vue-Mix is a vue-cli template for fast scaffolding with the new laravel-mix api
     ├── package.json
     ├── mix-manifest.json
     ├── hot
+```
