@@ -1,2 +1,4 @@
 node_modules
 dist
+hot
+mix-manifest.json
